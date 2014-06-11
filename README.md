@@ -16,3 +16,6 @@ Which required and optional stories have you completed?
   - User sees loading state while waiting for movies API.  You can use one of the 3rd party libraries here.
   - User sees error message when there's a networking error.  You may not use UIAlertView to display the error.
   - User can pull to refresh the movie list.
+
+App Demo
+
